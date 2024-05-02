@@ -35,7 +35,7 @@ I am a **Data** **Analyst** **Enthusiast** <img src="https://media.giphy.com/med
 
 ---
 **:file_folder: Projects**:
-- :open_file_folder: You can check out some of my work and projects on  [Profiolo](https://anabil12.github.io/An12/) or GitHub.
+- :open_file_folder: You can check out some of my work and projects on  [Portfoilo](https://anabil12.github.io/An12/) or GitHub.
 ---
 
 **Skills**:
